@@ -5,6 +5,7 @@ gem 'rails', '3.2.16'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+ruby '2.1.0'
 gem 'pg'
 gem 'rails_12factor', group: :production
 
